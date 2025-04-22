@@ -1,0 +1,82 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.nav-banner{
+    
+    background: linear-gradient(rgba(15, 23, 43, .9), rgba(15, 23, 43, .9)), url(/images/bg-hero.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+/* navbar start  */
+.navbar-brand i,.navbar-brand span{
+    font-size: 42px;
+    color: #FEA116;
+    font-weight: 700;
+}
+.navbar .nav-link{
+    font-size: 16px;
+    color: white !important;
+    margin-left: 18px !important;
+}
+.btn{
+    background-color: #FEA116;
+    border-radius: 2px;
+    font-weight: 700;
+    margin-left : 18px !important;
+}
+.nav-link:hover{
+    color: #FEA116 !important;
+}
+/* section start  */
+.heading{
+    color: #FFFFFF;
+    font-size: 55px;
+    font-weight: 900;
+}
+.para{
+    color: white;
+    font-size: 20px;
+}
+.btnn{
+    outline: none;
+    border: none;
+    color: white;
+    background-color: #FEA116;
+    font-weight: 700;
+    border-radius: 3px;
+
+}
+.banner{
+    overflow: hidden;
+}
+/* detial  */
+
+.detial .row div{
+    height: 250px;
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.detial i{
+    font-size: 50px;
+    color: #FEA116;
+}
+.detial h1{
+    font-size: 22px;
+    font-weight: 700;
+}
+.box1:hover{
+    background-color: #FEA116;
+    color: white;
+}
+.box1 i:hover{
+    color: white;
+}
+/* about us  */
+.aboutus{
+    height: 100vh;
+   
+}

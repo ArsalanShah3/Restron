@@ -1,0 +1,32 @@
+@media (min-width:1400px) {
+  
+}
+@media (min-width:1200px) and (max-width:1399px){
+  
+}
+@media (min-width:992px) and (max-width:1199px){
+    .detial .row div{
+        width: 45%;
+       
+    }
+   
+}
+@media (min-width:768px) and (max-width:991px){
+    .detial .row div{
+        width: 45%;
+       
+    }
+   
+}
+@media (min-width:576px) and (max-width:767px){
+    .detial .row div{
+        width: 90%;
+       
+    }
+}
+@media (max-width:576px){
+    .detial .row div{
+        width: 90%;
+       
+    }
+}
