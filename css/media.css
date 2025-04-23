@@ -29,4 +29,16 @@
         width: 90%;
        
     }
+    .year{
+        font-size: 25px;
+        color: #FEA116;
+        border-left: 5px solid #FEA116;
+        font-weight: 900;
+        /* padding-left: 18px; */
+    }
+    .years{
+        padding-left: 18px;
+        font-size: 14px;
+        font-weight: 700;
+    }
 }

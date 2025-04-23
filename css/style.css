@@ -77,9 +77,48 @@
 }
 /* about us  */
 .aboutus{
-    height: 100vh;
+    /* height: 70vh; */
    
 }
 .navbar-toggler-icon i{
     color: #FEA116;
+}
+.about{
+    color: #FEA116;
+    font-size: 25px;
+    font-weight: 600;
+
+}
+.welcome{
+font-weight: 700;    
+
+}
+.welcomes{
+    color: #FEA116;
+    font-family: 'Times New Roman', Times, serif;
+}
+.aparabout{
+    font-size: 20px;
+}
+.year{
+    font-size: 45px;
+    color: #FEA116;
+    border-left: 5px solid #FEA116;
+    font-weight: 900;
+    padding-left: 18px;
+}
+.years{
+    padding-left: 18px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.readmore{
+    padding-inline: 40px;
+    padding-block: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    background-color: #FEA116;
+    border-radius: 5px;
+    font-size: 18px;
 }
