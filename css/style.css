@@ -122,3 +122,33 @@ font-weight: 700;
     border-radius: 5px;
     font-size: 18px;
 }
+/* food menu  */
+.foodmenu{
+    color: #FEA116;
+    font-size: 22px;
+}
+.mostitems{
+    font-size: 35px;
+    font-weight: 800;
+}
+.breakfast i{
+    color: #FEA116;
+    font-size: 25px;
+    font-weight: 800;
+}
+.breakfast p{
+    font-size: 20px;
+    color: #000000;
+    font-weight: 700;
+}
+.breakfasts{
+   position: relative;
+}
+.breakfasts::after{
+    content: "";
+    height: 5px;
+    width: 140px;
+    background-color: #FEA116;
+    position: absolute;
+    bottom: 0%;
+}
