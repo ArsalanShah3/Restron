@@ -162,7 +162,7 @@ font-weight: 700;
     color: #FEA116;
 }
 .reservation{
-    height: 100vh;
+    /* height: 100vh; */
     overflow: hidden;
     background-color: #0F172B;
 }
