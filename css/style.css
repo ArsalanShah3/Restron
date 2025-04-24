@@ -191,4 +191,22 @@ font-weight: 700;
     color: white;
     font-size: 20px;
 }
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    z-index: 1030;
+    background-color: #0F172B;
+  }
+
+  /* To avoid overlap of navbar */
+  .nav-banner,
+  .detial,
+  .aboutus,
+  .menu,
+  .reservation {
+    margin-top: 90px; /* Adjust if needed */
+  }
 
