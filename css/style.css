@@ -161,3 +161,34 @@ font-weight: 700;
     font-weight: 700;
     color: #FEA116;
 }
+.reservation{
+    height: 100vh;
+    overflow: hidden;
+    background-color: #0F172B;
+}
+.book{
+    color: white;
+    font-size: 33px;
+    font-weight: 800;
+}
+.text{
+    padding: 13px;
+    width: 45%;
+    
+}
+.texts{
+    padding: 18px;
+    width: 93%;
+
+}
+.books{
+    background-color: #FEA116;
+    width: 93%;
+    border: none;
+    outline: none;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+
