@@ -41,4 +41,16 @@
         font-size: 14px;
         font-weight: 700;
     }
+    .dishname{
+        font-size: 18px;
+        font-weight: 800;
+    }
+    .dishprice{
+        font-size: 18px;
+        font-weight: 700;
+        color: #FEA116;
+    }
+    .dishdes{
+        font-size: 10px;
+    }
 }

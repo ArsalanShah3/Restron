@@ -152,3 +152,12 @@ font-weight: 700;
     position: absolute;
     bottom: 0%;
 }
+.dishname{
+    font-size: 22px;
+    font-weight: 800;
+}
+.dishprice{
+    font-size: 22px;
+    font-weight: 700;
+    color: #FEA116;
+}
