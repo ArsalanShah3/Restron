@@ -313,3 +313,22 @@ font-weight: 700;
     background-size: cover;
     border-radius: 50%;
   }
+  footer{
+    /* height: 70vh; */
+    background-color: #0F172B;
+  }
+  .linked1{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 1px solid white;
+    color: white;
+  }
+  .linked1:hover{
+   background-color: white;
+   color: #FEA116;
+  }
+.email:focus{
+    outline: none;
+    border: none;
+}
