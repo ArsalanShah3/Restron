@@ -23,6 +23,9 @@
         width: 90%;
        
     }
+    .member1{
+        width: 270px;
+    }
 }
 @media (max-width:576px){
     .detial .row div{
@@ -52,5 +55,8 @@
     }
     .dishdes{
         font-size: 10px;
+    }
+    .member1{
+        width: 290px;
     }
 }

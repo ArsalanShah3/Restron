@@ -209,4 +209,76 @@ font-weight: 700;
   .reservation {
     margin-top: 90px; /* Adjust if needed */
   }
+  /* team member  */
+ 
+  .member1{
+    height: 320px;
+    width: 240px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 5px;
+    overflow: hidden;
+  }
+  .memberimg {
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-image: url('/images/team-1.jpg');
+    background-size: 100%; /* Start from 100% */
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: background-size 1s ease-in-out;
+    overflow: hidden;
+}
 
+  .memberimg1{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+   background-image: url(/images/team-2.jpg);
+   background-size: 100%; /* Start from 100% */
+    background-position: center;
+    background-repeat: no-repeat;
+    transition: background-size 1s ease-in-out;
+    overflow: hidden;
+  }
+  .memberimg2{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+   background-image: url(/images/team-3.jpg);
+   background-size: 100%; /* Start from 100% */
+   background-position: center;
+   background-repeat: no-repeat;
+   transition: background-size 1s ease-in-out;
+   overflow: hidden;
+  }
+  .memberimg3{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+   background-image: url(/images/team-4.jpg);
+   background-size: 100%; /* Start from 100% */
+   background-position: center;
+   background-repeat: no-repeat;
+   transition: background-size 1s ease-in-out;
+   overflow: hidden;
+   
+  }
+  .memberimg:hover,.memberimg1:hover,.memberimg2:hover,.memberimg3:hover {
+    background-size: 120%; /* Zoom inside */
+}
+
+  .links{
+    height: 35px;
+    width: 35px;
+   
+  }
+  .links i{
+    background-color: #FEA116;
+    color: white;
+    padding: 15px 18px 18px 18px;
+    font-size: 16px;
+    border-top-right-radius: 50%;
+    border-top-left-radius: 50%;
+    
+  }
