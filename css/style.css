@@ -282,3 +282,34 @@ font-weight: 700;
     border-top-left-radius: 50%;
     
   }
+  /* client  */
+  .client1{
+    height: 250px;
+    width: 300px;
+    background-color: #FEA116;
+    border-radius: 5px;
+  }
+  .client1 i{
+    color: white;
+  }
+  .clientimg{
+    height: 70px;
+    width: 70px;
+    background-image: url(/images/testimonial-1.jpg);
+    background-size: cover;
+    border-radius: 50%;
+  }
+  .clientimg1{
+    height: 70px;
+    width: 70px;
+    background-image: url(/images/testimonial-2.jpg);
+    background-size: cover;
+    border-radius: 50%;
+  }
+  .clientimg2{
+    height: 70px;
+    width: 70px;
+    background-image: url(/images/testimonial-3.jpg);
+    background-size: cover;
+    border-radius: 50%;
+  }

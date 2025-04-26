@@ -57,6 +57,9 @@
         font-size: 10px;
     }
     .member1{
-        width: 290px;
+        width: 85%;
+    }
+    .client1{
+        width: 85%;
     }
 }
